@@ -1,7 +1,18 @@
 # HR-EMPLOYEE-ANALYSIS-WITH-POWER-BI.
 
 ## Table of Content
-
+- [Project Objective](#project-objective)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Dashboard](#dashboard)
+- [Result and Findings](#result-and-findings)
+- [Recommendation](#recommendation)
+- [Limitation](#limitation)
+- [Reference](#reference)
+  
 
 ### Project Objective
 
@@ -132,7 +143,7 @@ Below are the results and my findings from the analyzed table:
 
 ### Reference
 
-There are several related datasets that can be found in the public site
+Several related datasets can be found on the public site
 
 
 
